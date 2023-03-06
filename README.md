@@ -1,5 +1,5 @@
 # Keuangan-Bot
-Laporan keuangan, pencatatan pengeluaran dengan Bot Telegram yang terintegrasi dengan Google Spreadsheet
+Laporan keuangan, pencatatan dengan Bot Telegram yang terintegrasi dengan Google Spreadsheet.
 
 # Buat-Bot-Telegram
 1. Buka telegram search @BotFather
@@ -18,9 +18,14 @@ Laporan keuangan, pencatatan pengeluaran dengan Bot Telegram yang terintegrasi d
 
 # Buat-Apps-Script
 1. Buka index.gs
-2. Sesuaikan Token, Spreadsheet URL, Nama sheet, dan Pengguna bot (Chat ID*)
-3. Deploy sebagai Web app, dan simpan urlnya
+2. Sesuaikan Token, Spreadsheet URL, Nama sheet, dan Pengguna bot (Chat ID)
+3. Deploy sebagai Web app, dan simpan urlnya.
 
 # Set-Webhook-Bot-Telegram
 Buka di browser https://api.telegram.org/bot[token]/setwebhook?url=[url hasil deploy]
 
+# Note:
+Untuk mendapatkan Chat ID, buka telegram, search @get_id_bot
+
+# Contact
+Ig @debyfirdaa
